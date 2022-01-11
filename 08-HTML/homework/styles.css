@@ -1,0 +1,21 @@
+h1
+			{
+				color: red;
+			}
+img
+			{
+				width: 400px;
+			}
+	#thirdDiv
+			{
+				height: 600px;
+				width: 500px;
+				padding: 50px;
+				border: 5px;
+				border-color: green;
+				border-style: dotted;
+			}
+	#spanId
+			{
+				font-size: 18px;
+			}
